@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aillama
-- 👀 I’m interested in coding with Python specifically.
+- 👀 I’m interested in coding in general, but am specifically interested in creating mobile/web apps. 
 - 📫 How to reach me ananyatheavenger@gmail.com
 
 <!---
