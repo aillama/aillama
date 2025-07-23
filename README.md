@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aillama
 - 👀 I’m interested in coding with Python specifically.
-- 📫 How to reach me llamascoob@gmail.com
+- 📫 How to reach me ananyatheavenger@gmail.com
 
 <!---
 aillama/aillama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
